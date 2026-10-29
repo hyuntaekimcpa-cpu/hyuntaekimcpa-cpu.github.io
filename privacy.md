@@ -1,6 +1,4 @@
-[terms.html](https://github.com/user-attachments/files/34117391/terms.html)
-[index_2.html](https://github.com/user-attachments/files/34117393/index_2.html)[privacy_2.html](https://github.com/user-attachments/files/34117394/privacy_2.html)
-[privacy_2.html](https://github.com/user-attachments/files/34117401/privacy_2.html)
+[privacy_2.html](https://github.com/user-attachments/files/34117449/privacy_2.html)
 <!doctype html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Shorts Uploader - Privacy Policy</title><style>
