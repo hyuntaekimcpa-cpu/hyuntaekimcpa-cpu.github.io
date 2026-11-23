@@ -5,6 +5,8 @@ Files below are copied or adapted from ECC (https://github.com/affaan-m/ECC), co
 - .claude/agents/seo-specialist.md (adapted: reference section)
 - .claude/agents/marketing-agent.md (adapted: reference section)
 - .claude/skills/seo/SKILL.md (adapted: related skills section)
+- .claude/skills/brand-voice/ (adapted: sources, author-specific defaults removed, downstream links)
+- .claude/skills/content-engine/SKILL.md (adapted: Naver Blog section, related skills)
 
 ```
 MIT License

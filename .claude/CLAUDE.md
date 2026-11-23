@@ -39,4 +39,10 @@ Also:
 | `seo-specialist` | SEO audit of this site | ECC (MIT), adapted |
 | `marketing-agent` | Campaigns and copy | ECC (MIT), adapted |
 
+| Skill | Use for | Source |
+|---|---|---|
+| `seo` | SEO workflow | ECC (MIT), adapted |
+| `brand-voice` | Building a voice profile from the owner's own posts | ECC (MIT), adapted |
+| `content-engine` | Turning one post into versions for other platforms | ECC (MIT), adapted |
+
 Only these parts of ECC were adopted, on purpose. Its language-specific code reviewers, its TDD and 80%-coverage rules, and its rule to call agents automatically do not fit this repository. See `.claude/THIRD_PARTY_NOTICES.md` for the licence.
